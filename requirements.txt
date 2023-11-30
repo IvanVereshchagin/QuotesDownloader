@@ -1,0 +1,10 @@
+streamlit
+python-binance
+pandas
+numpy 
+<<<<<<< HEAD
+time 
+datetime
+=======
+pybit
+>>>>>>> 7c11f3a2aeb379ea840ea5932db472074b85ca6c
