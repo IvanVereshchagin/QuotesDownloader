@@ -2,8 +2,7 @@ datetime
 streamlit
 numpy
 pandas
-pybit 
-time 
+pybit  
 python-binance
 
  
